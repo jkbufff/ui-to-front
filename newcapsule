@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="NewCapsule.css">
+    <link rel="stylesheet" href="StyleGuide.css">
+    <title>NewCapsule</title>
+</head>
+<body>
+    <div class="newcapsulepage screen">
+    <div class="newcapsulepage screen">
+        <div class="newcapsulepage screen">
+            <div class="flex-row">
+                <div class="overlap-group">
+                    <img class="bouncystar" src="bouncystar.gif" alt="bouncystar" />
+                    <div class="place">Back</div>
+                </div>
+                <h1 class="title">NEW CAPSULE</h1>
+            </div>
+            <div class="group-container">
+                <div class="group-14"></div>
+                <div class="group-13">
+                    <a href="newcapsulepage.html">
+                        <img class="add-capsule" src="add-capsule.png" alt="add capsule" />
+                        <div class="add-media-here">Add Media Here</div>
+                    </a>
+                </div>
+                <div class="group-18">
+                    <div class="group-15">
+                        <div class="enter-capsule-name nicomoji-regular-normal-dull-lavender-32px">Enter Capsule Name: </div>
+                        <div class="rectangle rectangle-1"></div>
+                    </div>
+                    <div class="group-16">
+                        <div class="enter-unlock-date nicomoji-regular-normal-dull-lavender-32px">Enter Unlock Date</div>
+                        <img class="Text Box" src="TextBox.svg" alt="Text Box" />
+                    </div>
+                    <div class="group-17">
+                        <div class="enter-description nicomoji-regular-normal-dull-lavender-32px">Enter Description: </div>
+                        <div class="rectangle rectangle-1"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <script>
+        // for JavaScript
+    </script>
+</body>
+</html>
